@@ -36,6 +36,10 @@ Start by running the console:
 `python theZoo.py`
 
 
+
+## Video
+https://www.youtube.com/watch?v=IXrKuam0I0M&pbjreload=101
+
 ## License
 theZoo - the most awesome free malware database on the air
 Copyright (C) 2015, Yuval Nativ, Lahad Ludar, 5fingers
